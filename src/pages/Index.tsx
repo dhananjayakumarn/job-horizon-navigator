@@ -187,7 +187,7 @@ const Index = () => {
                       <SelectValue placeholder="All Categories" />
                     </SelectTrigger>
                     <SelectContent>
-                      <SelectItem value="">All Categories</SelectItem>
+                      <SelectItem value="all">All Categories</SelectItem>
                       <SelectItem value="technology">Technology</SelectItem>
                       <SelectItem value="marketing">Marketing</SelectItem>
                       <SelectItem value="sales">Sales</SelectItem>
